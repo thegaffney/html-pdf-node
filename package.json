@@ -1,6 +1,6 @@
 {
   "name": "html-pdf-node",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Convert any html content or html page to PDF",
   "main": "index.js",
   "directories": {
@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.7.2",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.9",
     "inline-css": "^3.0.0",
     "puppeteer": "^10.4.0"
   },
